@@ -1,0 +1,8 @@
+# あるクラスが持っている ?p をリスト。
+
+SELECT DISTINCT ?p
+WHERE {
+  VALUES ?type {<__TYPE__>}
+  ?s a ?type ;
+     ?p ?o .
+}

@@ -1,0 +1,84 @@
+
++meshv:AllowedDescriptorQualifierPair
+  - meshv:lastActiveYear:
+    - allowed_descriptor_qualifier_pair_last_active_year: 
+
++meshv:DisallowedDescriptorQualifierPair
+  - meshv:lastActiveYear:
+    - disallowed_descriptor_qualifier_pair_last_active_year: 
+  - meshv:useInstead:
+    - disallowed_descriptor_qualifier_pair_use_instead: 
+
++meshv:GeographicalDescriptor
+  - meshv:historyNote:
+    - geographical_descriptor_history_note: 
+  - meshv:onlineNote:
+    - geographical_descriptor_online_note: 
+  - meshv:previousIndexing:
+    - geographical_descriptor_previous_indexing: 
+
++meshv:Qualifier
+  - meshv:lastActiveYear:
+    - qualifier_last_active_year: 
+
++meshv:SCR_Chemical
+  - meshv:dateCreated:
+    - s_c_r__chemical_date_created: 
+  - meshv:dateRevised:
+    - s_c_r__chemical_date_revised: 
+  - meshv:indexerConsiderAlso:
+    - s_c_r__chemical_indexer_consider_also: 
+  - meshv:lastActiveYear:
+    - s_c_r__chemical_last_active_year: 
+  - meshv:mappedTo:
+    - s_c_r__chemical_mapped_to: 
+
++meshv:SCR_Disease
+  - meshv:concept:
+    - s_c_r__disease_concept: 
+  - meshv:dateCreated:
+    - s_c_r__disease_date_created: 
+  - meshv:dateRevised:
+    - s_c_r__disease_date_revised: 
+  - meshv:indexerConsiderAlso:
+    - s_c_r__disease_indexer_consider_also: 
+  - meshv:lastActiveYear:
+    - s_c_r__disease_last_active_year: 
+  - meshv:mappedTo:
+    - s_c_r__disease_mapped_to: 
+  - meshv:note:
+    - s_c_r__disease_note: 
+  - meshv:previousIndexing:
+    - s_c_r__disease_previous_indexing: 
+  - meshv:source:
+    - s_c_r__disease_source: 
+
++meshv:SCR_Organism
+  - meshv:concept:
+    - s_c_r__organism_concept: 
+  - meshv:dateCreated:
+    - s_c_r__organism_date_created: 
+  - meshv:dateRevised:
+    - s_c_r__organism_date_revised: 
+  - meshv:lastActiveYear:
+    - s_c_r__organism_last_active_year: 
+  - meshv:note:
+    - s_c_r__organism_note: 
+  - meshv:previousIndexing:
+    - s_c_r__organism_previous_indexing: 
+
++meshv:SCR_Protocol
+  - meshv:dateCreated:
+    - s_c_r__protocol_date_created: 
+  - meshv:dateRevised:
+    - s_c_r__protocol_date_revised: 
+  - meshv:indexerConsiderAlso:
+    - s_c_r__protocol_indexer_consider_also: 
+  - meshv:lastActiveYear:
+    - s_c_r__protocol_last_active_year: 
+  - meshv:pharmacologicalAction:
+    - s_c_r__protocol_pharmacological_action: 
+
++meshv:TreeNumber
+  - meshv:lastActiveYear:
+    - tree_number_last_active_year: 

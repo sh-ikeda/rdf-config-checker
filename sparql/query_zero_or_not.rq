@@ -1,0 +1,12 @@
+# ある predicate を持たない ?s が存在するか。
+# 結果が取れないならば cardinality は "" または "+"
+# 結果が取れるならば cardinality は "?" または "*"
+
+SELECT DISTINCT ?s
+WHERE {
+  VALUES ?type {<__TYPE__>}
+  ?s a ?type .
+  FILTER NOT EXISTS {
+    ?s <__PREDICATE__> ?o .
+  }
+}LIMIT 10

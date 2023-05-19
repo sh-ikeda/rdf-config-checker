@@ -1,0 +1,210 @@
+
+- meshv:AllowedDescriptorQualifierPair
+  - meshv:active:
+  - meshv:hasDescriptor:
+  - meshv:hasQualifier:
+  - meshv:lastActiveYear?:
+  - rdfs:label?:
+
+- meshv:CheckTag
+  - meshv:active:
+  - meshv:annotation:
+  - meshv:dateCreated:
+  - meshv:dateEstablished:
+  - meshv:dateRevised:
+  - meshv:historyNote:
+  - meshv:identifier:
+  - meshv:preferredConcept:
+  - meshv:preferredTerm:
+  - rdfs:label:
+
+- meshv:Concept
+  - meshv:active:
+  - meshv:broaderConcept*:
+  - meshv:casn1_label?:
+  - meshv:identifier:
+  - meshv:lastActiveYear?:
+  - meshv:narrowerConcept*:
+  - meshv:preferredTerm:
+  - meshv:registryNumber?:
+  - meshv:relatedConcept*:
+  - meshv:relatedRegistryNumber*:
+  - meshv:scopeNote?:
+  - meshv:term*:
+  - rdfs:label:
+
+- meshv:DisallowedDescriptorQualifierPair
+  - meshv:active:
+  - meshv:hasDescriptor:
+  - meshv:hasQualifier:
+  - meshv:lastActiveYear?:
+  - meshv:useInstead:
+  - rdfs:label?:
+
+- meshv:GeographicalDescriptor
+  - meshv:active:
+  - meshv:allowableQualifier*:
+  - meshv:annotation?:
+  - meshv:broaderDescriptor*:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateEstablished:
+  - meshv:dateRevised?:
+  - meshv:historyNote?:
+  - meshv:identifier:
+  - meshv:onlineNote?:
+  - meshv:preferredConcept:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing*:
+  - meshv:treeNumber+:
+  - rdfs:label:
+
+- meshv:PublicationType
+  - meshv:active:
+  - meshv:annotation?:
+  - meshv:broaderDescriptor*:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateEstablished:
+  - meshv:dateRevised:
+  - meshv:historyNote?:
+  - meshv:identifier:
+  - meshv:nlmClassificationNumber?:
+  - meshv:preferredConcept:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing*:
+  - meshv:seeAlso*:
+  - meshv:treeNumber+:
+  - rdfs:label:
+
+- meshv:Qualifier
+  - meshv:active:
+  - meshv:annotation:
+  - meshv:broaderQualifier*:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateEstablished:
+  - meshv:dateRevised:
+  - meshv:historyNote:
+  - meshv:identifier:
+  - meshv:lastActiveYear?:
+  - meshv:onlineNote?:
+  - meshv:preferredConcept:
+  - meshv:preferredTerm:
+  - meshv:treeNumber+:
+  - rdfs:label:
+
+- meshv:SCR_Chemical
+  - meshv:active:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateRevised?:
+  - meshv:frequency?:
+  - meshv:identifier:
+  - meshv:indexerConsiderAlso*:
+  - meshv:lastActiveYear?:
+  - meshv:mappedTo*:
+  - meshv:note?:
+  - meshv:pharmacologicalAction*:
+  - meshv:preferredConcept:
+  - meshv:preferredMappedTo*:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing*:
+  - meshv:source*:
+  - rdfs:label:
+
+- meshv:SCR_Disease
+  - meshv:active:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateRevised?:
+  - meshv:frequency:
+  - meshv:identifier:
+  - meshv:indexerConsiderAlso*:
+  - meshv:lastActiveYear?:
+  - meshv:mappedTo*:
+  - meshv:note?:
+  - meshv:preferredConcept:
+  - meshv:preferredMappedTo*:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing*:
+  - meshv:source?:
+  - rdfs:label:
+
+- meshv:SCR_Organism
+  - meshv:active:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateRevised:
+  - meshv:frequency:
+  - meshv:identifier:
+  - meshv:indexerConsiderAlso*:
+  - meshv:lastActiveYear?:
+  - meshv:note?:
+  - meshv:preferredConcept:
+  - meshv:preferredMappedTo:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing?:
+  - rdfs:label:
+
+- meshv:SCR_Protocol
+  - meshv:active:
+  - meshv:concept*:
+  - meshv:dateCreated:
+  - meshv:dateRevised?:
+  - meshv:frequency:
+  - meshv:identifier:
+  - meshv:indexerConsiderAlso?:
+  - meshv:lastActiveYear?:
+  - meshv:mappedTo*:
+  - meshv:note?:
+  - meshv:pharmacologicalAction?:
+  - meshv:preferredConcept:
+  - meshv:preferredMappedTo*:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing*:
+  - meshv:source*:
+  - rdfs:label:
+
+- meshv:Term
+  - meshv:abbreviation?:
+  - meshv:active:
+  - meshv:altLabel*:
+  - meshv:dateCreated?:
+  - meshv:entryVersion?:
+  - meshv:identifier:
+  - meshv:lastActiveYear?:
+  - meshv:lexicalTag:
+  - meshv:prefLabel:
+  - meshv:sortVersion?:
+  - meshv:thesaurusID*:
+
+- meshv:TopicalDescriptor
+  - meshv:active:
+  - meshv:allowableQualifier*:
+  - meshv:annotation?:
+  - meshv:broaderDescriptor*:
+  - meshv:concept*:
+  - meshv:considerAlso?:
+  - meshv:dateCreated:
+  - meshv:dateEstablished:
+  - meshv:dateRevised?:
+  - meshv:historyNote?:
+  - meshv:identifier:
+  - meshv:lastActiveYear?:
+  - meshv:nlmClassificationNumber?:
+  - meshv:onlineNote?:
+  - meshv:pharmacologicalAction*:
+  - meshv:preferredConcept:
+  - meshv:preferredTerm:
+  - meshv:previousIndexing*:
+  - meshv:publicMeSHNote?:
+  - meshv:seeAlso*:
+  - meshv:treeNumber+:
+  - rdfs:label+:
+
+- meshv:TreeNumber
+  - meshv:active:
+  - meshv:lastActiveYear?:
+  - meshv:parentTreeNumber?:
+  - rdfs:label:

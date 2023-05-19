@@ -1,0 +1,150 @@
+meshv:Concept	rdfs:label	
+meshv:Concept	meshv:identifier	
+meshv:Concept	meshv:registryNumber	?
+meshv:Concept	meshv:relatedRegistryNumber	*
+meshv:Concept	meshv:scopeNote	?
+meshv:Concept	meshv:casn1_label	?
+meshv:Concept	meshv:term	*
+meshv:Concept	meshv:preferredTerm	
+meshv:Concept	meshv:narrowerConcept	*
+meshv:Concept	meshv:broaderConcept	*
+meshv:Concept	meshv:relatedConcept	*
+meshv:Concept	meshv:active	
+meshv:Concept	meshv:lastActiveYear	?
+meshv:Term	meshv:prefLabel	
+meshv:Term	meshv:altLabel	*
+meshv:Term	meshv:identifier	
+meshv:Term	meshv:thesaurusID	*
+meshv:Term	meshv:dateCreated	
+meshv:Term	meshv:lexicalTag	
+meshv:Term	meshv:active	
+meshv:Term	meshv:lastActiveYear	?
+meshv:Term	meshv:entryVersion	?
+meshv:Term	meshv:sortVersion	?
+meshv:Term	meshv:abbreviation	?
+meshv:TopicalDescriptor	rdfs:label	
+meshv:TopicalDescriptor	meshv:identifier	
+meshv:TopicalDescriptor	meshv:annotation	?
+meshv:TopicalDescriptor	meshv:nlmClassificationNumber	?
+meshv:TopicalDescriptor	meshv:concept	*
+meshv:TopicalDescriptor	meshv:preferredConcept	
+meshv:TopicalDescriptor	meshv:preferredTerm	
+meshv:TopicalDescriptor	meshv:broaderDescriptor	*
+meshv:TopicalDescriptor	meshv:allowableQualifier	*
+meshv:TopicalDescriptor	meshv:treeNumber	+
+meshv:TopicalDescriptor	meshv:dateEstablished	
+meshv:TopicalDescriptor	meshv:dateCreated	
+meshv:TopicalDescriptor	meshv:dateRevised	*
+meshv:TopicalDescriptor	meshv:historyNote	?
+meshv:TopicalDescriptor	meshv:publicMeSHNote	?
+meshv:TopicalDescriptor	meshv:onlineNote	?
+meshv:TopicalDescriptor	meshv:active	
+meshv:TopicalDescriptor	meshv:lastActiveYear	?
+meshv:TopicalDescriptor	meshv:pharmacologicalAction	*
+meshv:TopicalDescriptor	meshv:previousIndexing	*
+meshv:TopicalDescriptor	meshv:considerAlso	?
+meshv:TopicalDescriptor	meshv:seeAlso	*
+meshv:TopicalDescriptor	meshv:seeAlso	*
+meshv:PublicationType	rdfs:label	
+meshv:PublicationType	meshv:identifier	
+meshv:PublicationType	meshv:annotation	
+meshv:PublicationType	meshv:preferredConcept	
+meshv:PublicationType	meshv:preferredTerm	
+meshv:PublicationType	meshv:broaderDescriptor	
+meshv:PublicationType	meshv:treeNumber	+
+meshv:PublicationType	meshv:seeAlso	*
+meshv:PublicationType	meshv:dateEstablished	
+meshv:PublicationType	meshv:dateCreated	
+meshv:PublicationType	meshv:dateRevised	
+meshv:PublicationType	meshv:historyNote	?
+meshv:PublicationType	meshv:active	
+meshv:PublicationType	meshv:concept	*
+meshv:PublicationType	meshv:previousIndexing	*
+meshv:PublicationType	meshv:nlmClassificationNumber	?
+meshv:CheckTag	rdfs:label	
+meshv:CheckTag	meshv:identifier	
+meshv:CheckTag	meshv:annotation	
+meshv:CheckTag	meshv:preferredConcept	
+meshv:CheckTag	meshv:preferredTerm	
+meshv:CheckTag	meshv:dateEstablished	
+meshv:CheckTag	meshv:dateCreated	
+meshv:CheckTag	meshv:dateRevised	
+meshv:CheckTag	meshv:historyNote	
+meshv:CheckTag	meshv:active	
+meshv:GeographicalDescriptor	rdfs:label	
+meshv:GeographicalDescriptor	meshv:identifier	
+meshv:GeographicalDescriptor	meshv:annotation	
+meshv:GeographicalDescriptor	meshv:concept	
+meshv:GeographicalDescriptor	meshv:preferredConcept	
+meshv:GeographicalDescriptor	meshv:preferredTerm	
+meshv:GeographicalDescriptor	meshv:broaderDescriptor	
+meshv:GeographicalDescriptor	meshv:allowableQualifier	
+meshv:GeographicalDescriptor	meshv:treeNumber	
+meshv:GeographicalDescriptor	meshv:dateEstablished	
+meshv:GeographicalDescriptor	meshv:dateCreated	
+meshv:GeographicalDescriptor	meshv:dateRevised	
+meshv:GeographicalDescriptor	meshv:active	
+meshv:Qualifier	rdfs:label	
+meshv:Qualifier	meshv:identifier	
+meshv:Qualifier	meshv:annotation	
+meshv:Qualifier	meshv:concept	
+meshv:Qualifier	meshv:preferredConcept	
+meshv:Qualifier	meshv:preferredTerm	
+meshv:Qualifier	meshv:broaderQualifier	
+meshv:Qualifier	meshv:treeNumber	
+meshv:Qualifier	meshv:dateEstablished	
+meshv:Qualifier	meshv:dateCreated	
+meshv:Qualifier	meshv:dateRevised	*
+meshv:Qualifier	meshv:historyNote	
+meshv:Qualifier	meshv:onlineNote	
+meshv:Qualifier	meshv:active	
+meshv:TreeNumber	rdfs:label	
+meshv:TreeNumber	meshv:parentTreeNumber	
+meshv:TreeNumber	meshv:active	
+meshv:SCR_Chemical	rdfs:label	
+meshv:SCR_Chemical	meshv:identifier	
+meshv:SCR_Chemical	meshv:frequency	
+meshv:SCR_Chemical	meshv:note	
+meshv:SCR_Chemical	meshv:previousIndexing	
+meshv:SCR_Chemical	meshv:source	
+meshv:SCR_Chemical	meshv:concept	
+meshv:SCR_Chemical	meshv:preferredConcept	
+meshv:SCR_Chemical	meshv:preferredTerm	
+meshv:SCR_Chemical	meshv:pharmacologicalAction	
+meshv:SCR_Chemical	meshv:preferredMappedTo	
+meshv:SCR_Chemical	meshv:active	
+meshv:SCR_Disease	rdfs:label	
+meshv:SCR_Disease	meshv:identifier	
+meshv:SCR_Disease	meshv:frequency	
+meshv:SCR_Disease	meshv:preferredConcept	
+meshv:SCR_Disease	meshv:preferredMappedTo	
+meshv:SCR_Disease	meshv:preferredTerm	
+meshv:SCR_Disease	meshv:active	
+meshv:SCR_Protocol	rdfs:label	
+meshv:SCR_Protocol	meshv:identifier	
+meshv:SCR_Protocol	meshv:frequency	
+meshv:SCR_Protocol	meshv:note	
+meshv:SCR_Protocol	meshv:previousIndexing	
+meshv:SCR_Protocol	meshv:source	
+meshv:SCR_Protocol	meshv:concept	
+meshv:SCR_Protocol	meshv:preferredConcept	
+meshv:SCR_Protocol	meshv:preferredTerm	
+meshv:SCR_Protocol	meshv:mappedTo	
+meshv:SCR_Protocol	meshv:preferredMappedTo	
+meshv:SCR_Protocol	meshv:active	
+meshv:SCR_Organism	rdfs:label	
+meshv:SCR_Organism	meshv:identifier	
+meshv:SCR_Organism	meshv:frequency	
+meshv:SCR_Organism	meshv:preferredConcept	
+meshv:SCR_Organism	meshv:preferredTerm	
+meshv:SCR_Organism	meshv:preferredMappedTo	
+meshv:SCR_Organism	meshv:indexerConsiderAlso	
+meshv:SCR_Organism	meshv:active	
+meshv:AllowedDescriptorQualifierPair	rdfs:label	
+meshv:AllowedDescriptorQualifierPair	meshv:hasDescriptor	
+meshv:AllowedDescriptorQualifierPair	meshv:hasQualifier	
+meshv:AllowedDescriptorQualifierPair	meshv:active	
+meshv:DisallowedDescriptorQualifierPair	rdfs:label	
+meshv:DisallowedDescriptorQualifierPair	meshv:hasDescriptor	
+meshv:DisallowedDescriptorQualifierPair	meshv:hasQualifier	
+meshv:DisallowedDescriptorQualifierPair	meshv:active	

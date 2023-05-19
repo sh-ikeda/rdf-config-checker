@@ -1,0 +1,14 @@
+meshv:Concept
+meshv:Term
+meshv:TopicalDescriptor
+meshv:PublicationType
+meshv:CheckTag
+meshv:GeographicalDescriptor
+meshv:Qualifier
+meshv:TreeNumber
+meshv:SCR_Chemical
+meshv:SCR_Disease
+meshv:SCR_Protocol
+meshv:SCR_Organism
+meshv:AllowedDescriptorQualifierPair
+meshv:DisallowedDescriptorQualifierPair

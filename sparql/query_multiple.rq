@@ -1,0 +1,12 @@
+# ?p を複数持つ ?s が存在するか。
+# 結果が取れないならば cardinality は "" または "?"
+# 結果が取れるならば cardinality は "*" または "+"
+
+SELECT DISTINCT ?s ?o ?o2
+WHERE {
+  VALUES ?p {<__PREDICATE__>}
+  VALUES ?type {<__TYPE__>}
+  ?s a ?type ;
+     ?p ?o, ?o2 .
+  FILTER(?o != ?o2)
+}LIMIT 10

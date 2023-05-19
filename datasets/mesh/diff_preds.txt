@@ -1,0 +1,161 @@
+--- /tmp/.psub.gz60v9AZLH	2023-05-17 11:25:14.904442000 +0900
++++ /tmp/.psub.M1CkdyRhNM	2023-05-17 11:25:15.230457200 +0900
+@@ -1,7 +1,10 @@
++meshv:AllowedDescriptorQualifierPair	a
+ meshv:AllowedDescriptorQualifierPair	meshv:active
+ meshv:AllowedDescriptorQualifierPair	meshv:hasDescriptor
+ meshv:AllowedDescriptorQualifierPair	meshv:hasQualifier
++meshv:AllowedDescriptorQualifierPair	meshv:lastActiveYear
+ meshv:AllowedDescriptorQualifierPair	rdfs:label
++meshv:CheckTag	a
+ meshv:CheckTag	meshv:active
+ meshv:CheckTag	meshv:annotation
+ meshv:CheckTag	meshv:dateCreated
+@@ -12,6 +15,7 @@
+ meshv:CheckTag	meshv:preferredConcept
+ meshv:CheckTag	meshv:preferredTerm
+ meshv:CheckTag	rdfs:label
++meshv:Concept	a
+ meshv:Concept	meshv:active
+ meshv:Concept	meshv:broaderConcept
+ meshv:Concept	meshv:casn1_label
+@@ -25,10 +29,14 @@
+ meshv:Concept	meshv:scopeNote
+ meshv:Concept	meshv:term
+ meshv:Concept	rdfs:label
++meshv:DisallowedDescriptorQualifierPair	a
+ meshv:DisallowedDescriptorQualifierPair	meshv:active
+ meshv:DisallowedDescriptorQualifierPair	meshv:hasDescriptor
+ meshv:DisallowedDescriptorQualifierPair	meshv:hasQualifier
++meshv:DisallowedDescriptorQualifierPair	meshv:lastActiveYear
++meshv:DisallowedDescriptorQualifierPair	meshv:useInstead
+ meshv:DisallowedDescriptorQualifierPair	rdfs:label
++meshv:GeographicalDescriptor	a
+ meshv:GeographicalDescriptor	meshv:active
+ meshv:GeographicalDescriptor	meshv:allowableQualifier
+ meshv:GeographicalDescriptor	meshv:annotation
+@@ -37,11 +45,15 @@
+ meshv:GeographicalDescriptor	meshv:dateCreated
+ meshv:GeographicalDescriptor	meshv:dateEstablished
+ meshv:GeographicalDescriptor	meshv:dateRevised
++meshv:GeographicalDescriptor	meshv:historyNote
+ meshv:GeographicalDescriptor	meshv:identifier
++meshv:GeographicalDescriptor	meshv:onlineNote
+ meshv:GeographicalDescriptor	meshv:preferredConcept
+ meshv:GeographicalDescriptor	meshv:preferredTerm
++meshv:GeographicalDescriptor	meshv:previousIndexing
+ meshv:GeographicalDescriptor	meshv:treeNumber
+ meshv:GeographicalDescriptor	rdfs:label
++meshv:PublicationType	a
+ meshv:PublicationType	meshv:active
+ meshv:PublicationType	meshv:annotation
+ meshv:PublicationType	meshv:broaderDescriptor
+@@ -58,6 +70,7 @@
+ meshv:PublicationType	meshv:seeAlso
+ meshv:PublicationType	meshv:treeNumber
+ meshv:PublicationType	rdfs:label
++meshv:Qualifier	a
+ meshv:Qualifier	meshv:active
+ meshv:Qualifier	meshv:annotation
+ meshv:Qualifier	meshv:broaderQualifier
+@@ -67,15 +80,22 @@
+ meshv:Qualifier	meshv:dateRevised
+ meshv:Qualifier	meshv:historyNote
+ meshv:Qualifier	meshv:identifier
++meshv:Qualifier	meshv:lastActiveYear
+ meshv:Qualifier	meshv:onlineNote
+ meshv:Qualifier	meshv:preferredConcept
+ meshv:Qualifier	meshv:preferredTerm
+ meshv:Qualifier	meshv:treeNumber
+ meshv:Qualifier	rdfs:label
++meshv:SCR_Chemical	a
+ meshv:SCR_Chemical	meshv:active
+ meshv:SCR_Chemical	meshv:concept
++meshv:SCR_Chemical	meshv:dateCreated
++meshv:SCR_Chemical	meshv:dateRevised
+ meshv:SCR_Chemical	meshv:frequency
+ meshv:SCR_Chemical	meshv:identifier
++meshv:SCR_Chemical	meshv:indexerConsiderAlso
++meshv:SCR_Chemical	meshv:lastActiveYear
++meshv:SCR_Chemical	meshv:mappedTo
+ meshv:SCR_Chemical	meshv:note
+ meshv:SCR_Chemical	meshv:pharmacologicalAction
+ meshv:SCR_Chemical	meshv:preferredConcept
+@@ -84,33 +104,57 @@
+ meshv:SCR_Chemical	meshv:previousIndexing
+ meshv:SCR_Chemical	meshv:source
+ meshv:SCR_Chemical	rdfs:label
++meshv:SCR_Disease	a
+ meshv:SCR_Disease	meshv:active
++meshv:SCR_Disease	meshv:concept
++meshv:SCR_Disease	meshv:dateCreated
++meshv:SCR_Disease	meshv:dateRevised
+ meshv:SCR_Disease	meshv:frequency
+ meshv:SCR_Disease	meshv:identifier
++meshv:SCR_Disease	meshv:indexerConsiderAlso
++meshv:SCR_Disease	meshv:lastActiveYear
++meshv:SCR_Disease	meshv:mappedTo
++meshv:SCR_Disease	meshv:note
+ meshv:SCR_Disease	meshv:preferredConcept
+ meshv:SCR_Disease	meshv:preferredMappedTo
+ meshv:SCR_Disease	meshv:preferredTerm
++meshv:SCR_Disease	meshv:previousIndexing
++meshv:SCR_Disease	meshv:source
+ meshv:SCR_Disease	rdfs:label
++meshv:SCR_Organism	a
+ meshv:SCR_Organism	meshv:active
++meshv:SCR_Organism	meshv:concept
++meshv:SCR_Organism	meshv:dateCreated
++meshv:SCR_Organism	meshv:dateRevised
+ meshv:SCR_Organism	meshv:frequency
+ meshv:SCR_Organism	meshv:identifier
+ meshv:SCR_Organism	meshv:indexerConsiderAlso
++meshv:SCR_Organism	meshv:lastActiveYear
++meshv:SCR_Organism	meshv:note
+ meshv:SCR_Organism	meshv:preferredConcept
+ meshv:SCR_Organism	meshv:preferredMappedTo
+ meshv:SCR_Organism	meshv:preferredTerm
++meshv:SCR_Organism	meshv:previousIndexing
+ meshv:SCR_Organism	rdfs:label
++meshv:SCR_Protocol	a
+ meshv:SCR_Protocol	meshv:active
+ meshv:SCR_Protocol	meshv:concept
++meshv:SCR_Protocol	meshv:dateCreated
++meshv:SCR_Protocol	meshv:dateRevised
+ meshv:SCR_Protocol	meshv:frequency
+ meshv:SCR_Protocol	meshv:identifier
++meshv:SCR_Protocol	meshv:indexerConsiderAlso
++meshv:SCR_Protocol	meshv:lastActiveYear
+ meshv:SCR_Protocol	meshv:mappedTo
+ meshv:SCR_Protocol	meshv:note
++meshv:SCR_Protocol	meshv:pharmacologicalAction
+ meshv:SCR_Protocol	meshv:preferredConcept
+ meshv:SCR_Protocol	meshv:preferredMappedTo
+ meshv:SCR_Protocol	meshv:preferredTerm
+ meshv:SCR_Protocol	meshv:previousIndexing
+ meshv:SCR_Protocol	meshv:source
+ meshv:SCR_Protocol	rdfs:label
++meshv:Term	a
+ meshv:Term	meshv:abbreviation
+ meshv:Term	meshv:active
+ meshv:Term	meshv:altLabel
+@@ -122,6 +166,7 @@
+ meshv:Term	meshv:prefLabel
+ meshv:Term	meshv:sortVersion
+ meshv:Term	meshv:thesaurusID
++meshv:TopicalDescriptor	a
+ meshv:TopicalDescriptor	meshv:active
+ meshv:TopicalDescriptor	meshv:allowableQualifier
+ meshv:TopicalDescriptor	meshv:annotation
+@@ -142,9 +187,10 @@
+ meshv:TopicalDescriptor	meshv:previousIndexing
+ meshv:TopicalDescriptor	meshv:publicMeSHNote
+ meshv:TopicalDescriptor	meshv:seeAlso
+-meshv:TopicalDescriptor	meshv:seeAlso
+ meshv:TopicalDescriptor	meshv:treeNumber
+ meshv:TopicalDescriptor	rdfs:label
++meshv:TreeNumber	a
+ meshv:TreeNumber	meshv:active
++meshv:TreeNumber	meshv:lastActiveYear
+ meshv:TreeNumber	meshv:parentTreeNumber
+ meshv:TreeNumber	rdfs:label

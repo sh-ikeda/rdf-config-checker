@@ -1,0 +1,264 @@
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	rdfs:label	
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	skos:altLabel	
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	skos:prefLabel	
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	dcterms:description	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:atcClassification	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:fracClassification	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:chemblId	
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasActivity	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasParentMolecule	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasChildMolecule	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasDocument	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasDrugIndication	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasMechanism	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hasBioComponent	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:helmNotation	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:highestDevelopmentPhase	
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:isBiotherapeutic	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:hracClassification	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:iracClassification	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:moleculeXref	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	cco:substanceType	
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	skos:exactMatch	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	sio:SIO_000008	*
+cco:SmallMolecule cco:ProteinMolecule cco:UnknownSubstance cco:Oligosaccharide cco:UnclassifiedSubstance cco:CellTherapy cco:Enzyme cco:Antibody cco:Oligonucleotide cco:UnclassifiedMolecule	foaf:depiction	
+foaf:Image	rdfs:label	
+cheminf:CHEMINF_000113	cheminf:SIO_000300	
+cheminf:CHEMINF_000113	rdfs:label	+
+cheminf:CHEMINF_000059	cheminf:SIO_000300	
+cheminf:CHEMINF_000059	rdfs:label	+
+cheminf:CHEMINF_000018	cheminf:SIO_000300	
+cheminf:CHEMINF_000018	rdfs:label	+
+cheminf:CHEMINF_000251	cheminf:SIO_000300	
+cheminf:CHEMINF_000251	rdfs:label	+
+cheminf:CHEMINF_000350	cheminf:SIO_000300	
+cheminf:CHEMINF_000350	rdfs:label	+
+cheminf:CHEMINF_000245	cheminf:SIO_000300	
+cheminf:CHEMINF_000245	rdfs:label	+
+cheminf:CHEMINF_000244	cheminf:SIO_000300	
+cheminf:CHEMINF_000244	rdfs:label	+
+cheminf:CHEMINF_000307	cheminf:SIO_000300	
+cheminf:CHEMINF_000307	rdfs:label	+
+cheminf:CHEMINF_000254	cheminf:SIO_000300	
+cheminf:CHEMINF_000254	rdfs:label	+
+cheminf:CHEMINF_000315	cheminf:SIO_000300	
+cheminf:CHEMINF_000315	rdfs:label	+
+cheminf:CHEMINF_000312	cheminf:SIO_000300	
+cheminf:CHEMINF_000312	rdfs:label	+
+cheminf:CHEMINF_000195	cheminf:SIO_000300	
+cheminf:CHEMINF_000195	rdfs:label	+
+cheminf:CHEMINF_000251	cheminf:SIO_000300	
+cheminf:CHEMINF_000251	rdfs:label	+
+cheminf:CHEMINF_000322	cheminf:SIO_000300	
+cheminf:CHEMINF_000322	rdfs:label	+
+cheminf:CHEMINF_000326	cheminf:SIO_000300	
+cheminf:CHEMINF_000326	rdfs:label	+
+cheminf:CHEMINF_000216	cheminf:SIO_000300	
+cheminf:CHEMINF_000216	rdfs:label	+
+cheminf:CHEMINF_000381	cheminf:SIO_000300	
+cheminf:CHEMINF_000381	rdfs:label	+
+cheminf:CHEMINF_000300	cheminf:SIO_000300	
+cheminf:CHEMINF_000300	rdfs:label	+
+cheminf:CHEMINF_000431	cheminf:SIO_000300	
+cheminf:CHEMINF_000431	rdfs:label	+
+cheminf:CHEMINF_000042	cheminf:SIO_000300	
+cheminf:CHEMINF_000042	rdfs:label	+
+cheminf:CHEMINF_000218	cheminf:SIO_000300	
+cheminf:CHEMINF_000218	rdfs:label	+
+sio:CHEMINF_000195	rdfs:label	
+sio:CHEMINF_000195	sio:SIO_000300	
+cco:BioComponent	rdfs:label	
+cco:BioComponent	dcterms:description	
+cco:BioComponent	cco:chemblId	
+cco:BioComponent	cco:componentType	
+cco:BioComponent	cco:hasMolecule	
+cco:BioComponent	cco:proteinSequence	
+cco:BioComponent	cco:organismName	*
+cco:BioComponent	cco:taxonomy	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	rdfs:label	
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	dcterms:title	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:chemblId	
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:hasAssay	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:hasProteinClassification	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:hasTargetComponent	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:hasBindingSite	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:isTargetForMechanism	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:isTargetForCellLine	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:isSpeciesGroup	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:organismName	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:relHasSubset	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:relSubsetOf	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:relOverlapsWith	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:relEquivalentTo	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:targetType	
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	cco:taxonomy	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	skos:relatedMatch	*
+cco:ADMET cco:ProteinComplexGroup cco:ProteinComplex cco:ProteinSelectivityGroup cco:Phenotype cco:SingleProtein cco:NucleicAcid cco:Organism cco:Metal cco:Macromolecule cco:SmallMoleculeTarget cco:SubCellular cco:OligosaccharideTarget cco:UnknownTarget cco:UnclassifiedTarget cco:CellLineTarget cco:Tissue cco:NonMolecular cco:ChimericProtein cco:ProteinNucleicAcidComplex cco:ProteinFamily cco:ProteinProteinInteraction	skos:exactMatch	*
+cco:TargetComponent	rdfs:label	+
+cco:TargetComponent	skos:altLabel	*
+cco:TargetComponent	cco:chemblId	
+cco:TargetComponent	cco:componentType	
+cco:TargetComponent	cco:hasProteinClassification	
+cco:TargetComponent	cco:hasTarget	
+cco:TargetComponent	cco:organismName	
+cco:TargetComponent	cco:proteinSequence	
+cco:TargetComponent	cco:targetCmptXref	*
+cco:TargetComponent	cco:taxonomy	*
+cco:TargetComponent	dcterms:description	
+cco:TargetComponent	skos:exactMatch	
+cco:ProteinClassification	rdfs:subClassOf	*
+cco:ProteinClassification	rdfs:label	+
+cco:ProteinClassification	skos:prefLabel	*
+cco:ProteinClassification	cco:chemblId	
+cco:ProteinClassification	cco:classLevel	
+cco:ProteinClassification	cco:classPath	
+cco:ProteinClassification	cco:hasTargetComponentDescendant	+
+cco:ProteinClassification	cco:hasTargetDescendant	+
+cco:ProteinClassification	skos:broader	*
+cco:ProteinClassification	skos:narrower	*
+cco:BindingSite	cco:bindingSiteName	
+cco:BindingSite	cco:chemblId	
+cco:BindingSite	rdfs:label	+
+cco:BindingSite	cco:hasTarget	*
+cco:BindingSite	cco:isBindingSiteForMechanism	*
+cco:Activity	cco:chemblId	
+cco:Activity	cco:activityComment	*
+cco:Activity	cco:hasMolecule	
+cco:Activity	cco:hasAssay	
+cco:Activity	cco:hasQUDT	
+cco:Activity	cco:hasUnitOnto	+
+cco:Activity	cco:pChembl	
+cco:Activity	cco:relation	
+cco:Activity	cco:standardRelation	
+cco:Activity	cco:standardType	
+cco:Activity	cco:standardUnits	
+cco:Activity	cco:standardValue	
+cco:Activity	cco:type	
+cco:Activity	cco:units	
+cco:Activity	cco:value	
+cco:Activity	bao:BAO_0000208	*
+cco:Activity	rdfs:label	+
+cco:Activity	cco:dataValidityComment	*
+cco:Activity	cco:dataValidityIssue	*
+cco:Activity	cco:hasDocument	*
+cco:Activity	cco:potentialDuplicate	*
+cco:Assay	rdfs:label	
+cco:Assay	cco:assayType	
+cco:Assay	cco:assayTestType	*
+cco:Assay	cco:chemblId	
+cco:Assay	cco:assayCategory	*
+cco:Assay	cco:organismName	*
+cco:Assay	cco:taxonomy	*
+cco:Assay	cco:assayCellType	*
+cco:Assay	cco:assayStrain	*
+cco:Assay	cco:assaySubCellFrac	*
+cco:Assay	cco:assayTissue	*
+cco:Assay	cco:hasActivity	*
+cco:Assay	cco:hasDocument	*
+cco:Assay	cco:hasSource	
+cco:Assay	cco:hasTarget	*
+cco:Assay	cco:hasCellLine	*
+cco:Assay	cco:targetConfDesc	*
+cco:Assay	cco:targetConfScore	*
+cco:Assay	cco:targetRelDesc	*
+cco:Assay	cco:targetRelType	*
+cco:Assay	dcterms:description	
+cco:Assay	bao:BAO_0000205	
+cco:Assay	cco:assayXref	*
+cco:Source	rdfs:label	+
+cco:Source	cco:chemblId	
+cco:Source	dcterms:description	
+cco:Source	cco:hasAssay	+
+cco:CellLine	rdfs:label	
+cco:CellLine	dcterms:description	
+cco:CellLine	cco:cellosaurusId	
+cco:CellLine	cco:chemblId	
+cco:CellLine	cco:hasCLO	
+cco:CellLine	cco:hasEFO	*
+cco:CellLine	cco:isCellLineForAssay	
+cco:CellLine	cco:isCellLineForTarget	
+cco:CellLine	cco:organismName	
+cco:CellLine	cco:taxonomy	*
+cco:CellLine	cco:cellXref	*
+cco:Mechanism	rdfs:label	
+cco:Mechanism	cco:chemblId	
+cco:Mechanism	cco:hasMolecule	
+cco:Mechanism	cco:hasTarget	
+cco:Mechanism	cco:hasBindingSite	*
+cco:Mechanism	cco:mechanismActionType	
+cco:Mechanism	cco:mechanismDescription	
+cco:DrugIndication	rdfs:label	
+cco:DrugIndication	cco:chemblId	
+cco:DrugIndication	cco:hasEFO	
+cco:DrugIndication	cco:hasEFOName	
+cco:DrugIndication	cco:hasMesh	
+cco:DrugIndication	cco:hasMeshHeading	
+cco:DrugIndication	cco:hasMolecule	
+cco:DrugIndication	cco:highestDevelopmentPhase	
+cco:Document	dcterms:date	
+cco:Document	dcterms:title	
+cco:Document	bibo:doi	
+cco:Document	bibo:issue	
+cco:Document	bibo:pageEnd	
+cco:Document	bibo:pageStart	
+cco:Document	bibo:pmid	
+cco:Document	bibo:volume	
+cco:Document	cco:chemblId	
+cco:Document	cco:documentType	
+cco:Document	cco:hasActivity	+
+cco:Document	cco:hasAssay	+
+cco:Document	cco:hasJournal	
+cco:Document	cco:hasMolecule	+
+cco:Document	rdfs:label	+
+cco:Journal	rdfs:label	+
+cco:Journal	cco:chemblId	
+cco:Journal	cco:hasDocument	+
+cco:Journal	dcterms:title	
+cco:Journal	bibo:eissn	
+cco:Journal	bibo:issn	
+cco:Journal	bibo:shortTitle	
+cco:SureChemblRef	rdfs:label	+
+cco:ActorRef	rdfs:label	+
+cco:PubchemRef	rdfs:label	+
+cco:NikkajiRef	rdfs:label	+
+cco:IbmPatentStructureRef	rdfs:label	+
+cco:ReactomeRef	rdfs:label	+
+cco:GoProcessRef	rdfs:label	+
+cco:GoFunctionRef	rdfs:label	+
+cco:GoComponentRef	rdfs:label	+
+cco:PfamRef	rdfs:label	+
+cco:UniprotRef <http://rdf.ebi.ac.uk/terms/ensembl/EnsemblDBEntry>	rdfs:label	+
+cco:UniprotRef <http://rdf.ebi.ac.uk/terms/ensembl/EnsemblDBEntry>	dc:identifier	
+cco:UniprotRef <http://rdf.ebi.ac.uk/terms/ensembl/EnsemblDBEntry>	dc:description	
+cco:UniprotRef <http://rdf.ebi.ac.uk/terms/ensembl/EnsemblDBEntry>	owl:sameAs	
+cco:InterproRef	rdfs:label	+
+cco:IntactRef	rdfs:label	+
+cco:WikipediaMolRef	rdfs:label	
+cco:DrugbankRef	rdfs:label	
+cco:ZincRef	rdfs:label	
+cco:EmoleculesRef	rdfs:label	
+<http://identifiers.org/pdb> <http://rdf.ebi.ac.uk/terms/ensembl/EnsemblDBEntry> cco:ProteinDataBankRef	rdfs:label	
+cco:PdbeRef	rdfs:label	
+cco:MculeRef	rdfs:label	
+cco:MolportRef	rdfs:label	
+<http://identifiers.org/ensembl> cco:EnsemblGeneRef <http://rdf.ebi.ac.uk/terms/expressionatlas/EnsemblDatabaseReference>	rdfs:label	
+<http://identifiers.org/ensembl> cco:EnsemblGeneRef <http://rdf.ebi.ac.uk/terms/expressionatlas/EnsemblDatabaseReference>	dcterms:identifier	
+cco:FdaSrsRef	rdfs:label	
+cco:NmrShiftDb2Ref	rdfs:label	
+cco:PubchemThomPharmRef	rdfs:label	
+cco:ChebiRef	rdfs:label	
+cco:AtlasRef	rdfs:label	
+cco:KeggLigandRef	rdfs:label	
+cco:IupharRef	rdfs:label	
+cco:HmdbRef	rdfs:label	
+cco:SelleckRef	rdfs:label	
+cco:ReconRef	rdfs:label	
+cco:PharmGkbRef	rdfs:label	
+cco:PubchemDotfRef	rdfs:label	
+cco:LincsRef	rdfs:label	
+cco:TimbalRef	rdfs:label	
+cco:CGDRef	rdfs:label	
+cco:PharmgkbRef	rdfs:label	
+cco:EnzymeClassRef	rdfs:label	
+cco:LincsCellRef	rdfs:label	
+cco:PubchemBioassayRef	rdfs:label	
